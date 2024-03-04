@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(148, 27, 27);
+}
+.container-navbar {
+    background-color: orange;
+    width: 100%;
+    height: 100%;
+    
+}
+.ul-navbar {
+    display: flex;
+    
+}
+
+.li-navbar {
+    border: 1px solid black;
+    list-style-type: none;
+    padding: 10px;
+    margin: 5 px;
+    color: white;
+}
